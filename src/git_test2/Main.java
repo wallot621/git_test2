@@ -5,6 +5,5 @@ public class Main {
         Hello h = new Hello();
         h.say();
         h.say();
-        h.say();
     }
 }
